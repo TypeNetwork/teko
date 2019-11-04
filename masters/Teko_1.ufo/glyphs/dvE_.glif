@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvE" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvE" format="2">
   <advance width="512"/>
+  <anchor x="273" y="642" name="topmiddle"/>
+  <anchor x="472" y="652" name="abvm.e"/>
   <outline>
-    <contour>
-      <point x="273" y="642" type="move" name="topmiddle"/>
-    </contour>
-    <contour>
-      <point x="472" y="652" type="move" name="abvm.e"/>
-    </contour>
     <contour>
       <point x="40" y="570" type="line"/>
       <point x="40" y="107" type="line" smooth="yes"/>
