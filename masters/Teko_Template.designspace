@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="0" maximum="100" default="0">
+      <labelname xml:lang="en">Parametric Weight</labelname>
+    </axis>
+  </axes>
+  
+  <sources>
+    <source filename="Teko_0.ufo" familyname="Teko" stylename="Light">
+      <location>
+        <dimension name="Weight" xvalue="0"/>
+      </location>
+    </source>
+    
+    <source filename="Teko_1.ufo" familyname="Teko" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    
+  </sources>
+
+<instances>
+
+
+        <instance familyname="Teko" filename="instances/Teko-semibold.ufo" postscriptfontname="Teko-semibold" stylename="semibold">
+            <location>
+                <dimension name="weight" xvalue="75" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        
+                <instance familyname="Teko" filename="instances/Teko-medium.ufo" postscriptfontname="Teko-medium" stylename="medium">
+            <location>
+                <dimension name="weight" xvalue="50" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        
+                <instance familyname="Teko" filename="instances/Teko-regular.ufo" postscriptfontname="Teko-regular" stylename="regular">
+            <location>
+                <dimension name="weight" xvalue="25" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        
+        
+</instances>
+
+</designspace>

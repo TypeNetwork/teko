@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvA" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvA" format="2">
   <advance width="730"/>
+  <anchor x="605" y="642" name="topmiddle"/>
   <outline>
-    <contour>
-      <point x="605" y="642" type="move" name="topmiddle"/>
-    </contour>
     <contour>
       <point x="520" y="642" type="line"/>
       <point x="520" y="0" type="line"/>

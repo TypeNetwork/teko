@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvmU" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvmU" format="2">
+  <anchor x="-124" y="0" name="_blwm.u"/>
   <outline>
-    <contour>
-      <point x="-124" y="0" type="move" name="_blwm.u"/>
-    </contour>
     <contour>
       <point x="-36" y="1" type="curve"/>
       <point x="-124" y="1" type="line"/>

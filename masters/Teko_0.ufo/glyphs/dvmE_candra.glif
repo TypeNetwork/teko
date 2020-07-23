@@ -1,13 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvmEcandra" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvmEcandra" format="2">
+  <anchor x="-57" y="622" name="_abvm.bindu"/>
+  <anchor x="-89" y="622" name="_topmiddle"/>
   <outline>
-    <contour>
-      <point x="-57" y="622" type="move" name="_abvm.bindu"/>
-    </contour>
-    <contour>
-      <point x="-89" y="622" type="move" name="_topmiddle"/>
-    </contour>
     <contour>
       <point x="-218" y="791" type="line"/>
       <point x="-218" y="745" type="line" smooth="yes"/>

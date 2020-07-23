@@ -1,16 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvRA" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvRA" format="2">
   <advance width="473"/>
+  <anchor x="435" y="-20" name="blwm.virama"/>
+  <anchor x="434" y="642" name="abvm.bindu"/>
+  <anchor x="434" y="652" name="abvm.e"/>
   <outline>
-    <contour>
-      <point x="435" y="-20" type="move" name="blwm.virama"/>
-    </contour>
-    <contour>
-      <point x="434" y="642" type="move" name="abvm.bindu"/>
-    </contour>
-    <contour>
-      <point x="434" y="652" type="move" name="abvm.e"/>
-    </contour>
     <contour>
       <point x="40" y="472" type="line"/>
       <point x="40" y="107" type="line" smooth="yes"/>
